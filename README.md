@@ -1,3 +1,3 @@
-Interested in machine learning, web applications and physics modelling
+Interested in ml, web apps and physics modelling
 
-Currently developing a nutrition tracker web application 💚
+Currently developing a nutrition tracker 💚
